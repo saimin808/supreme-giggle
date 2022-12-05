@@ -9,7 +9,7 @@ public class Apple {
 		price -= 800;
 	}
 	
-	public void clean() {
+	public void wash() {
 		clean = true;
 	}
 }
